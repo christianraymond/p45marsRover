@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\Documents\\MarsRoverChallenge\\MarsRover.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\webroot\\MarsRoverChallenge\\MarsRover.csproj",
       "projectName": "MarsRover",
-      "projectPath": "C:\\Users\\chris\\Documents\\MarsRoverChallenge\\MarsRover.csproj",
+      "projectPath": "C:\\Users\\chris\\Documents\\webroot\\MarsRoverChallenge\\MarsRover.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\Documents\\MarsRoverChallenge\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\webroot\\MarsRoverChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

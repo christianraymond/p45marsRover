@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u6OEGvAgYwgYgVbLOpXeGrVzHWDhhSx180JJYychhKBNISbPhchJlPquVd3BhJcGYYvqeeTfx7Kk5Q6rzfsVZw==",
+  "dgSpecHash": "NZStE3/CRz1S/rmzkTAE0hJxhcz/u8mIzwbsXp5EsLL6TreWKn/QuE4Y/efL4/jyZ+xxwqzuupIHgVEnsqjZWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris\\Documents\\MarsRoverChallenge\\MarsRover.csproj",
+  "projectFilePath": "C:\\Users\\chris\\Documents\\webroot\\MarsRoverChallenge\\MarsRover.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
