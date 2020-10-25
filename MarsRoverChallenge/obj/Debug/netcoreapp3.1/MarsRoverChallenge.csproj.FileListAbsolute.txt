@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.exe
+C:\Users\chris\Documents\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.deps.json
+C:\Users\chris\Documents\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.runtimeconfig.json
+C:\Users\chris\Documents\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.runtimeconfig.dev.json
+C:\Users\chris\Documents\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.dll
+C:\Users\chris\Documents\MarsRoverChallenge\bin\Debug\netcoreapp3.1\MarsRoverChallenge.pdb
+C:\Users\chris\Documents\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.csprojAssemblyReference.cache
+C:\Users\chris\Documents\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.AssemblyInfo.cs
+C:\Users\chris\Documents\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.dll
+C:\Users\chris\Documents\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.pdb
+C:\Users\chris\Documents\MarsRoverChallenge\obj\Debug\netcoreapp3.1\MarsRoverChallenge.genruntimeconfig.cache
