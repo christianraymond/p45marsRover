@@ -43,7 +43,7 @@ Expected Output
 
 ## How to Run the Application
 The application is a console app designed for the .NET 3+ framework. It does not use any of the features of .NET 3.0 or 3.5, however can be configured to build for any desired. NET version within Visual Studio.
-Clone(Download) the repository into your machine, find and open the solution(not the folder) in the visual studio(not visual studio code) The solution inside the folder looks something like ```p45MarsRover.sln``` 
+Clone(Download) the repository into your machine, find and open the solution(not the folder) in the visual studio(not visual studio code) The solution inside the folder looks something like ```p45MarsRover.sln``` Under ```MarsRoverChallenge``` Folder.
 Compile(Build) the solution, and then run the application as follows:
 
 ```p45MarsRover.exe <windows-path-to-input-file``` or after cloning, open the project inside visual studio, eg: visual studio 2019 and do a build and then
