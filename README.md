@@ -43,14 +43,18 @@ Expected Output
 
 ## How to Run the Application
 The application is a console app designed for the .NET 3+ framework. It does not use any of the features of .NET 3.0 or 3.5, however can be configured to build for any desired. NET version within Visual Studio.
-Clone(Download) the repository into your machine
-Compile the solution, and then run the application as follows:
+Clone(Download) the repository into your machine, find and open the solution(not the folder) in the visual studio(not visual studio code) The solution inside the folder looks something like ```p45MarsRover.sln``` 
+Compile(Build) the solution, and then run the application as follows:
 
-```p45Rover.exe <windows-path-to-input-file``` or after cloning, open the project inside visual studio, eg: visual studio 2019 and do a build and then
+```p45MarsRover.exe <windows-path-to-input-file``` or after cloning, open the project inside visual studio, eg: visual studio 2019 and do a build and then
 ```Run Start``` <br/>
 
 If you're a familiar with visual studio or have a little basics building C# project, you should be good to do, just in case.
 The input file path can be absolute or relative. Instructions are provided if no argument or more than one argument is supplied to the application.
+
+## How to Run the Unit Test
+The solution contains 2 projects, the second one is the ```RoverUnitTest``` <br/>
+Inside visual studio, right click on Solution name, and then select ```Run Test``` You should be able to see a new Text Explorer modal opening containing the UnitTests.
 
 ## Design Explanation
 
